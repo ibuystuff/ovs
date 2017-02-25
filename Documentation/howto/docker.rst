@@ -43,7 +43,7 @@ Setup
 -----
 
 For multi-host networking with OVN and Docker, Docker has to be started with a
-destributed key-value store. For example, if you decide to use consul as your
+distributed key-value store. For example, if you decide to use consul as your
 distributed key-value store and your host IP address is ``$HOST_IP``, start
 your Docker daemon with::
 
